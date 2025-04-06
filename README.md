@@ -1,6 +1,6 @@
 # Setlist to Playlist
 
-En minimalistisk webapp för att snabbt hitta setlists från konserter med dina favoritartister – och snart kunna omvandla dem till spellistor direkt i Spotify eller Apple Music.
+En minimalistisk webapp för att snabbt hitta setlists från konserter med dina favoritartister – och som snart även kommar att kunna omvandla dem till spellistor direkt i Spotify eller Apple Music.
 
 ## Bakgrund
 
@@ -37,5 +37,3 @@ Jag jobbar just nu på två funktioner som jag själv saknar på setlist.fm:
 
 2. **Skapa spellistor baserat på setlists**  
    ➝ Generera en spellista från en konsert och spara den i ditt Spotify- eller Apple Music-konto
-
-Stay tuned!
